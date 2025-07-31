@@ -1,0 +1,7 @@
+pandas
+numpy
+Faker
+mysql-connector-python
+scikit-learn
+matplotlib
+seaborn

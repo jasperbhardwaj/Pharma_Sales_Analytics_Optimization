@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Environment variables (for sensitive data like DB credentials)
+.env
+
+# MySQL specific (if any local files are generated)
+*.log
+*.bak
