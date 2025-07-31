@@ -110,4 +110,4 @@ Based on the analysis and predictive insights, potential recommendations for Pro
 * Explore geospatial analysis to optimize territory boundaries visually.
 
 ## Contact
-[Your Name] - [Your LinkedIn Profile URL (Optional)] - [Your Email (Optional)]
+[Jasper Bhardwaj]  - [jaswhid2020@gmail.com]
