@@ -1,7 +1,7 @@
 # Pharmaceutical Sales Analytics & Territory Optimization
 
 ## Project Overview
-This project demonstrates a comprehensive approach to pharmaceutical sales analytics and territory optimization, leveraging SQL for data management and Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) for data simulation, advanced analysis, and predictive modeling. The goal is to provide data-driven insights to a hypothetical pharmaceutical company (inspired by ProcDNA's focus on life sciences commercial analytics) to enhance sales strategy and resource allocation.
+This project demonstrates a comprehensive approach to pharmaceutical sales analytics and territory optimization, leveraging SQL for data management and Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) for data simulation, advanced analysis, and predictive modeling. The goal is to provide data-driven insights to a hypothetical pharmaceutical company  to enhance sales strategy and resource allocation.
 
 ## Problem Statement
 Pharmaceutical companies face challenges in efficiently allocating sales territories and predicting sales performance due to complex factors like diverse patient populations, varying healthcare professional (HCP) engagement levels, and product-specific market dynamics. Suboptimal territory design can lead to missed sales opportunities and inefficient resource utilization.
